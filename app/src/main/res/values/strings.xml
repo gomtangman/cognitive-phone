@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">Cognitive Phone</string>
+  <string name="welcome_text">Hello! I\'m a droid.</string>
 </resources>
